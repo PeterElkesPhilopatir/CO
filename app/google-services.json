@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "687662596612",
+    "project_id": "co-git",
+    "storage_bucket": "co-git.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687662596612:android:7a1b5d4e0d86c21e47ab51",
+        "android_client_info": {
+          "package_name": "com.peter.co"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687662596612-6n63kumfh8chnurr2mid8kku3eanet26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peter.co",
+            "certificate_hash": "0784dcdd1b49d1f70835773926115a3f7a186ef1"
+          }
+        },
+        {
+          "client_id": "687662596612-daa56qukts8rt3dajdpidfh61abi6v3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANsVjuOSVi9uQYIdOr-ZbYIIK-LGLEeBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687662596612-daa56qukts8rt3dajdpidfh61abi6v3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+
+
+    <string name="facebook_app_id">1522667631525017</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">04cf85d73b07aa22169a0c06a7e4e487</string>
+
+
+</resources>
